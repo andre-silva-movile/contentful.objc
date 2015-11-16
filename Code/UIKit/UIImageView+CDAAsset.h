@@ -8,7 +8,7 @@
 
 @import UIKit;
 
-#import <ContentfulDeliveryAPI/CDAPersistedAsset.h>
+#import "CDAPersistedAsset.h"
 
 @class CDAAsset;
 

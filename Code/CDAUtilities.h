@@ -8,7 +8,7 @@
 
 @import Foundation;
 
-#import <ContentfulDeliveryAPI/CDAClient.h>
+#import "CDAClient.h"
 
 // FIXME: Used to silence Xcode 6.3 beta - should be eventually removed.
 #undef NSParameterAssert

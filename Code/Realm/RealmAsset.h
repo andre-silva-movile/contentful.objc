@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDAPersistedAsset.h>
+#import "CDAPersistedAsset.h"
 #import <Realm/RLMObject.h>
 
 @interface RealmAsset : RLMObject <CDAPersistedAsset>

@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDAArray.h>
+#import "CDAArray.h"
 
 @interface CDAArray ()
 

@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDAAsset.h>
+#import "CDAAsset.h"
 
 #import "Asset.h"
 #import "CoreDataFetchDataSource.h"

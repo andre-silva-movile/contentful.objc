@@ -8,7 +8,7 @@
 
 @import ObjectiveC.runtime;
 
-#import <ContentfulDeliveryAPI/CDAResource.h>
+#import "CDAResource.h"
 
 #import "CDAField+Private.h"
 #import "CDAFieldValueTransformer.h"

@@ -8,12 +8,12 @@
 
 @import ObjectiveC.runtime;
 
-#import <ContentfulDeliveryAPI/CDAArray.h>
-#import <ContentfulDeliveryAPI/CDAAsset.h>
-#import <ContentfulDeliveryAPI/CDAContentType.h>
-#import <ContentfulDeliveryAPI/CDAField.h>
-#import <ContentfulDeliveryAPI/CDALocalizablePersistedEntry.h>
-#import <ContentfulDeliveryAPI/CDASyncedSpace.h>
+#import "CDAArray.h"
+#import "CDAAsset.h"
+#import "CDAContentType.h"
+#import "CDAField.h"
+#import "CDALocalizablePersistedEntry.h"
+#import "CDASyncedSpace.h"
 
 #import "CDAClient+Private.h"
 #import "CDAContentTypeRegistry.h"

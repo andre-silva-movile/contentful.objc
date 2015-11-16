@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDAField.h>
+#import "CDAField.h"
 
 @class CDAClient;
 

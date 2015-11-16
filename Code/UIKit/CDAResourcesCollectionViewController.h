@@ -8,7 +8,7 @@
 
 @import UIKit;
 
-#import <ContentfulDeliveryAPI/CDAClient.h>
+#import "CDAClient.h"
 
 /**
  The `CDAResourcesCollectionViewController` makes it easy to display content from different kinds

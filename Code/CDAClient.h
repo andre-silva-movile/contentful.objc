@@ -8,7 +8,7 @@
 
 @import Foundation;
 
-#import <ContentfulDeliveryAPI/CDANullabilityStubs.h>
+#import "CDANullabilityStubs.h"
 
 @class CDAArray;
 @class CDAAsset;

@@ -9,7 +9,7 @@
 @import CoreData;
 @import Foundation;
 
-#import <ContentfulDeliveryAPI/CDAPersistedEntry.h>
+#import "CDAPersistedEntry.h"
 
 
 @interface Group : NSManagedObject <CDAPersistedEntry>

@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/ContentfulDeliveryAPI.h>
+#import "ContentfulDeliveryAPI.h"
 
 /**
  A specialization of `CDAPersistenceManager` which allows you to use Realm.

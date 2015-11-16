@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDAResource.h>
+#import "CDAResource.h"
 
 @interface CDADeletedEntry : CDAResource
 

@@ -6,8 +6,8 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDANullabilityStubs.h>
-#import <ContentfulDeliveryAPI/CDAResource.h>
+#import "CDANullabilityStubs.h"
+#import "CDAResource.h"
 
 /**
  A list of resources which was retrieved from the server.

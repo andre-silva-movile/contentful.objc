@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDANullabilityStubs.h>
+#import "CDANullabilityStubs.h"
 
 #import "CDAEntry.h"
 #import "CDAPersistedAsset.h"

@@ -9,7 +9,7 @@
 @import CoreData;
 @import Foundation;
 
-#import <ContentfulDeliveryAPI/CDAPersistedAsset.h>
+#import "CDAPersistedAsset.h"
 
 @interface Asset : NSManagedObject <CDAPersistedAsset>
 

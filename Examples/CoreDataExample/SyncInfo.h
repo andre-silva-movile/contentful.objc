@@ -9,7 +9,7 @@
 @import CoreData;
 @import Foundation;
 
-#import <ContentfulDeliveryAPI/CDAPersistedSpace.h>
+#import "CDAPersistedSpace.h"
 
 @interface SyncInfo : NSManagedObject <CDAPersistedSpace>
 

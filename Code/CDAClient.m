@@ -6,9 +6,9 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDAAsset.h>
-#import <ContentfulDeliveryAPI/CDAEntry.h>
-#import <ContentfulDeliveryAPI/CDASpace.h>
+#import "CDAAsset.h"
+#import "CDAEntry.h"
+#import "CDASpace.h"
 
 #import "CDAArray+Private.h"
 #import "CDAClient+Private.h"

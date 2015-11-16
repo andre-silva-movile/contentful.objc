@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDAFieldsViewController.h>
+#import "CDAFieldsViewController.h"
 
 @interface CDAFieldsViewController ()
 

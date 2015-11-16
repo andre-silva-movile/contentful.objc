@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/ContentfulDeliveryAPI.h>
+#import "ContentfulDeliveryAPI.h"
 
 #import "CDAFieldsViewController+Private.h"
 #import "CDAImageViewController.h"

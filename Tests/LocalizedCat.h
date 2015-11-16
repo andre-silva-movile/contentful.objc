@@ -8,7 +8,7 @@
 @import CoreData;
 @import Foundation;
 
-#import <ContentfulDeliveryAPI/CDALocalizablePersistedEntry.h>
+#import "CDALocalizablePersistedEntry.h"
 
 @class Asset;
 

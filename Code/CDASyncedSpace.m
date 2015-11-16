@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/ContentfulDeliveryAPI.h>
+#import "ContentfulDeliveryAPI.h"
 
 #import "CDAArray+Private.h"
 #import "CDAClient+Private.h"

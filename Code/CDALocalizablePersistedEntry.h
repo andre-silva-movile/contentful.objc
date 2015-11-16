@@ -8,7 +8,7 @@
 
 @import CoreData;
 
-#import <ContentfulDeliveryAPI/CDALocalizedPersistedEntry.h>
+#import "CDALocalizedPersistedEntry.h"
 
 /**
  *  Any class representing a set of localizable persisted entries should inherit from this class.

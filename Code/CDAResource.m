@@ -8,10 +8,10 @@
 
 @import ObjectiveC.runtime;
 
-#import <ContentfulDeliveryAPI/CDAConfiguration.h>
-#import <ContentfulDeliveryAPI/CDAContentType.h>
-#import <ContentfulDeliveryAPI/CDAResource.h>
-#import <ContentfulDeliveryAPI/CDASpace.h>
+#import "CDAConfiguration.h"
+#import "CDAContentType.h"
+#import "CDAResource.h"
+#import "CDASpace.h"
 #import <ISO8601DateFormatter/ISO8601DateFormatter.h>
 
 #import "CDAClient+Private.h"

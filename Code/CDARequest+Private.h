@@ -7,7 +7,7 @@
 //
 
 #import <AFNetworking/AFHTTPRequestOperation.h>
-#import <ContentfulDeliveryAPI/CDARequest.h>
+#import "CDARequest.h"
 
 @interface CDARequest ()
 

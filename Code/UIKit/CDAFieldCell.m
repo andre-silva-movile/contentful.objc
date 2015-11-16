@@ -8,8 +8,8 @@
 
 @import MapKit;
 
-#import <ContentfulDeliveryAPI/CDAEntry.h>
-#import <ContentfulDeliveryAPI/CDAField.h>
+#import "CDAEntry.h"
+#import "CDAField.h"
 
 #import "CDAFieldCell.h"
 

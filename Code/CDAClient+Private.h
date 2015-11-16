@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDAClient.h>
+#import "CDAClient.h"
 
 @class CDAContentTypeRegistry;
 @class CDARequestOperationManager;

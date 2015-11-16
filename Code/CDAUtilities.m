@@ -8,7 +8,7 @@
 
 @import ObjectiveC.runtime;
 
-#import <ContentfulDeliveryAPI/CDASpace.h>
+#import "CDASpace.h"
 
 #import "CDAClient+Private.h"
 #import "CDAResource+Private.h"

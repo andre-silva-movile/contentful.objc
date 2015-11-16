@@ -8,7 +8,7 @@
 
 @import Foundation;
 
-#import <ContentfulDeliveryAPI/CDAPersistedEntry.h>
+#import "CDAPersistedEntry.h"
 
 /**
  *  Any class representing localized Entries saved to a persistent store needs to conform to this 

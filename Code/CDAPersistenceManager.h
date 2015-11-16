@@ -6,11 +6,11 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDAClient.h>
-#import <ContentfulDeliveryAPI/CDALocalizedPersistedEntry.h>
-#import <ContentfulDeliveryAPI/CDAPersistedAsset.h>
-#import <ContentfulDeliveryAPI/CDAPersistedEntry.h>
-#import <ContentfulDeliveryAPI/CDAPersistedSpace.h>
+#import "CDAClient.h"
+#import "CDALocalizedPersistedEntry.h"
+#import "CDAPersistedAsset.h"
+#import "CDAPersistedEntry.h"
+#import "CDAPersistedSpace.h"
 
 NS_ASSUME_NONNULL_BEGIN
 

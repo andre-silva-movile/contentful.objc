@@ -9,7 +9,7 @@
 @import XCTest;
 
 #import <CCLRequestReplay/CCLRequestJSONRecording.h>
-#import <ContentfulDeliveryAPI/ContentfulDeliveryAPI.h>
+#import "ContentfulDeliveryAPI.h"
 #import <FBSnapshotTestCase/FBSnapshotTestController.h>
 
 #import "AsyncTesting.h"

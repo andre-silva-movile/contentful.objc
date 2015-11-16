@@ -6,8 +6,8 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDANullabilityStubs.h>
-#import <ContentfulDeliveryAPI/CDAResource.h>
+#import "CDANullabilityStubs.h"
+#import "CDAResource.h"
 
 /**
  Spaces are containers for Content Types, Entries and Assets.

@@ -8,26 +8,26 @@
 
 @import Foundation;
 
-#import <ContentfulDeliveryAPI/CDAArray.h>
-#import <ContentfulDeliveryAPI/CDAAsset.h>
-#import <ContentfulDeliveryAPI/CDAClient.h>
-#import <ContentfulDeliveryAPI/CDAConfiguration.h>
-#import <ContentfulDeliveryAPI/CDAContentType.h>
-#import <ContentfulDeliveryAPI/CDAEntry.h>
-#import <ContentfulDeliveryAPI/CDAError.h>
-#import <ContentfulDeliveryAPI/CDAField.h>
-#import <ContentfulDeliveryAPI/CDAPersistenceManager.h>
-#import <ContentfulDeliveryAPI/CDARequest.h>
-#import <ContentfulDeliveryAPI/CDAResponse.h>
-#import <ContentfulDeliveryAPI/CDASpace.h>
-#import <ContentfulDeliveryAPI/CDASyncedSpace.h>
+#import "CDAArray.h"
+#import "CDAAsset.h"
+#import "CDAClient.h"
+#import "CDAConfiguration.h"
+#import "CDAContentType.h"
+#import "CDAEntry.h"
+#import "CDAError.h"
+#import "CDAField.h"
+#import "CDAPersistenceManager.h"
+#import "CDARequest.h"
+#import "CDAResponse.h"
+#import "CDASpace.h"
+#import "CDASyncedSpace.h"
 
 #if TARGET_OS_IPHONE
-#import <ContentfulDeliveryAPI/CDAEntriesViewController.h>
-#import <ContentfulDeliveryAPI/CDAFieldsViewController.h>
-#import <ContentfulDeliveryAPI/CDAMapViewController.h>
-#import <ContentfulDeliveryAPI/CDAResourceCell.h>
-#import <ContentfulDeliveryAPI/CDAResourcesCollectionViewController.h>
-#import <ContentfulDeliveryAPI/CDAResourcesViewController.h>
-#import <ContentfulDeliveryAPI/UIImageView+CDAAsset.h>
+#import "CDAEntriesViewController.h"
+#import "CDAFieldsViewController.h"
+#import "CDAMapViewController.h"
+#import "CDAResourceCell.h"
+#import "CDAResourcesCollectionViewController.h"
+#import "CDAResourcesViewController.h"
+#import "UIImageView+CDAAsset.h"
 #endif

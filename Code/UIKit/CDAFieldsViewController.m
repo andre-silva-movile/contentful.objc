@@ -6,11 +6,11 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDAAsset.h>
-#import <ContentfulDeliveryAPI/CDAClient.h>
-#import <ContentfulDeliveryAPI/CDAContentType.h>
-#import <ContentfulDeliveryAPI/CDAEntry.h>
-#import <ContentfulDeliveryAPI/CDAField.h>
+#import "CDAAsset.h"
+#import "CDAClient.h"
+#import "CDAContentType.h"
+#import "CDAEntry.h"
+#import "CDAField.h"
 
 #import "CDAEntriesViewController.h"
 #import "CDAFieldCell.h"

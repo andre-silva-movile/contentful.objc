@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDAResourcesViewController.h>
+#import "CDAResourcesViewController.h"
 
 @class CDAEntriesViewController;
 @class CDAEntry;

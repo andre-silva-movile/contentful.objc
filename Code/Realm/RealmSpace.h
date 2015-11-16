@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDAPersistedSpace.h>
+#import "CDAPersistedSpace.h"
 #import <Realm/RLMObject.h>
 
 @interface RealmSpace : RLMObject <CDAPersistedSpace>

@@ -6,8 +6,8 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDAArray.h>
-#import <ContentfulDeliveryAPI/CDAResourceCell.h>
+#import "CDAArray.h"
+#import "CDAResourceCell.h"
 
 #import "CDAResourcesCollectionViewController.h"
 #import "CDAUtilities.h"

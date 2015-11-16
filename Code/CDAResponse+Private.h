@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDAResponse.h>
+#import "CDAResponse.h"
 
 @interface CDAResponse ()
 

@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDAEntry.h>
+#import "CDAEntry.h"
 
 #import "CDAEntriesViewController.h"
 

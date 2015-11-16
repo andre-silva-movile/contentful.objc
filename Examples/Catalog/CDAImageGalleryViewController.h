@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/CDAResourcesCollectionViewController.h>
+#import "CDAResourcesCollectionViewController.h"
 
 @interface CDAImageGalleryViewController : CDAResourcesCollectionViewController
 

@@ -7,7 +7,7 @@
 //
 
 #import <AFNetworking/UIImageView+AFNetworking.h>
-#import <ContentfulDeliveryAPI/CDAAsset.h>
+#import "CDAAsset.h"
 
 @import ObjectiveC.runtime;
 

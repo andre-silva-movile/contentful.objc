@@ -8,7 +8,7 @@
 
 @import CoreData;
 
-#import <ContentfulDeliveryAPI/CDAPersistedEntry.h>
+#import "CDAPersistedEntry.h"
 
 #import "Asset.h"
 

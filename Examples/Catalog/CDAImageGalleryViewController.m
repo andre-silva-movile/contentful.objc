@@ -6,7 +6,7 @@
 //
 //
 
-#import <ContentfulDeliveryAPI/ContentfulDeliveryAPI.h>
+#import "ContentfulDeliveryAPI.h"
 #import <PDKTCollectionViewWaterfallLayout/PDKTCollectionViewWaterfallLayout.h>
 
 #import "CDAImageGalleryViewController.h"
